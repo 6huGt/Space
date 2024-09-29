@@ -46,3 +46,4 @@
 		"terser": "^5.31.3"
 	}
 }
+"packageManager": "pnpm@6.3.2"
